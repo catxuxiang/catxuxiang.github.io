@@ -18,8 +18,8 @@ favicon: favicon.png
 repository: catxuxiang/catxuxiang.github.io
 github_url: https://github.com/catxuxiang
 cnblog_url: http://www.cnblogs.com/catxuxiang
-url: http://www.catxuxiang.com
-enforce_ssl: catxuxiang.com
+url: http://catxuxiang.github.io
+enforce_ssl: catxuxiang.github.io
 
 ## Gem
 plugins:
